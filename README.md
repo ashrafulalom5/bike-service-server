@@ -1,0 +1,25 @@
+# Bike Servicing Server [Live Site] (http://google.com)
+
+## Feature 
+* Admin
+  * Create Services
+  * Delete Service
+  * Make admin
+  * See all order
+  * Approve order
+  * file upload
+* User 
+  * Book service
+  * See own booking service 
+  * Add review
+  
+
+## Server Sidebar
+ * NodeJs/ExpressJs
+ * MongoDB Database
+ * Heroku server
+
+## Support
+* Error handling
+* Admin security
+* Hide sensitive with environment variable 
